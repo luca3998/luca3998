@@ -1,5 +1,5 @@
 ## Hi there 👋
-Just a MSc Computer Science student living life :) 
+A recently graduated MSc Computer Science with an interest in Data and Computer Vision 
 <!--
 **luca3998/luca3998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
